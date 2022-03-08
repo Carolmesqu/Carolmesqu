@@ -2,7 +2,7 @@
 <h3 align = "center">✨ Seja Bem-vindo (a)!✨</h3>
 
 ### 🦸🏻‍♀️ Um pouco sobre mim:
-- 🎓 Curso Sistemas de Informação <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao?utm_campaign=PMax%7CGraduacao%7CPresencial%7CGoogle(GDN)%7CPerformanceMax%7CNacional_ContaPresencial&gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAo3Z_D2y5BKXPuZbyTTquxQALSlFRqOiH2ckfpONrxcUC-JOZCDP-UaAvb9EALw_wcB"> 
+- 🎓  <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao?utm_campaign=PMax%7CGraduacao%7CPresencial%7CGoogle(GDN)%7CPerformanceMax%7CNacional_ContaPresencial&gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAo3Z_D2y5BKXPuZbyTTquxQALSlFRqOiH2ckfpONrxcUC-JOZCDP-UaAvb9EALw_wcB">Curso Sistemas de Informação</a>
 - 🚀 Programadora em desenvolvimento
 - ❤ Sou apaixonada por  jogos🎮, séries🎬, animes💟 e explorar locais novos🌍
 - 📃<a target="_blank" href="https://www.linkedin.com/in/maria-carolina-de-sousa-mesquita-4b6bb997/"> Saiba mais sobre - Linkedin </a>
