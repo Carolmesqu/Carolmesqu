@@ -6,8 +6,7 @@
 - 🚀 Programadora em desenvolvimento
 - ❤ Sou apaixonada por jogos🎮, séries🎬, animes💟 e explorar locais novos🌍
 - 📃<a target="_blank" href="https://www.linkedin.com/in/maria-carolina-de-sousa-mesquita-4b6bb997/"> Saiba mais sobre - Linkedin </a>
-- 📊 //<a target="_blank" href="https://carolmesqu.github.io/Carolmesqu/"> Currículo online </a>
-<br><br>
+
 
 ### ⚡ Tools (learning):
 <p align="left">
