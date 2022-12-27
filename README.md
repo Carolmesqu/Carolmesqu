@@ -3,7 +3,7 @@
 
 ### 🦸🏻‍♀️ Um pouco sobre mim:
 - 🎓  <a href="https://estacio.br/cursos/graduacao/sistemas-de-informacao?utm_campaign=PMax%7CGraduacao%7CPresencial%7CGoogle(GDN)%7CPerformanceMax%7CNacional_ContaPresencial&gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAo3Z_D2y5BKXPuZbyTTquxQALSlFRqOiH2ckfpONrxcUC-JOZCDP-UaAvb9EALw_wcB">Curso Sistemas de Informação</a>
-- ❤ Adoro jogos🎮, séries🎬, animes💟 e explorar locais novos🌍
+- ❤ Adoro <a href="https://worldofwarcraft.com/pt-br/">jogos</a>🎮, <a href="https://pt.wikipedia.org/wiki/Freddy_Krueger">filmes</a>🎬, <a href="https://pt.wikipedia.org/wiki/InuYasha">animes</a>💟 e explorar locais novos🌍
 - 📃<a target="_blank" href="https://www.linkedin.com/in/maria-carolina-mesquita-4b6bb997/"> Saiba mais sobre - Linkedin </a>
 
 ### 📊 GitHub estatísticas:
