@@ -30,20 +30,11 @@ target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?
 </div>
 
 #
- 
-<h2>Main skills:</h2>
-
-<div style="display: inline_block"><br>
-
-  <img align="center" alt="Maria-JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -
-  <img align="center" alt="Maria-ColdFusion" height="60" width="60" src="https://www.adobe.com/content/dam/acom/images/shared/product_mnemonics/128x128/coldfusion-128x128.png" />
-  
-</div>
-
-#
 <h2> Studying in this moment:</h2>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Maria-JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -
+  <img align="center" alt="Maria-ColdFusion" height="60" width="60" src="https://www.adobe.com/content/dam/acom/images/shared/product_mnemonics/128x128/coldfusion- 128x128.png" />
   <img align="center" alt="Maria-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> - 
   <img align="center" alt="Maria-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> - 
   <img align="center" alt="Maria-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> - 
