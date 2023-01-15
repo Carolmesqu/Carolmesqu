@@ -40,7 +40,7 @@ target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?
   <img align="center" alt="Maria-HTML5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> -
   <img align="center" alt="Maria-CSS3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -
   <img align="center" alt="Maria-TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -
-  <img align="center" alt="Maria-ColdFusion" height="60" width="60" src="https://www.adobe.com/content/dam/acom/images/shared/product_mnemonics/128x128/coldfusion- 128x128.png" />
+  <img align="center" alt="Maria-ColdFusion" height="60" width="60" src="https://www.adobe.com/content/dam/acom/images/shared/product_mnemonics/128x128/coldfusion-128x128.png" />
 </div>
 
 
