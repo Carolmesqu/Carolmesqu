@@ -16,7 +16,7 @@
 
 <a alt="Instagram" href="https://www.instagram.com/carolmesqu/" 
 target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
-<a alt="Telegram" href="t.me/carolmesqu" 
+<a alt="Telegram" href="https://t.me/carolmesqu" 
 target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="blank"></a>
 <a alt="WhatsApp" href="https://wa.me/message/3FFGHGJJGTHQP1" 
 target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"></a>
