@@ -58,18 +58,3 @@ target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
 
-
-Tabela de cores:
-<https://erikasarti.com/html/tabela-cores/>
-
-Readme stats:
-<https://github.com/anuraghazra/github-readme-stats>
-
-Badges para linguagens ou mideas sociais: 
-<https://dev.to/envoy_/150-badges-for-github-pnk>
-<https://github.com/iuricode/readme-template/blob/main/badges/badges.md#como-usar-os-badges>
-
-Icons de linguagem: 
-<https://devicon.dev/>
-
-Markdown: <https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open>
