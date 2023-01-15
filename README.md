@@ -22,9 +22,9 @@ target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for
 target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"></a>
 <a alt="Linkedin" href="https://www.linkedin.com/in/maria-carolina-mesquita-4b6bb997/" 
 target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
-<a alt="Gmail" href="carolmesqu@gmail.com" 
+<a alt="Gmail" href="mailto:carolmesqu@gmail.com" 
 target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-<a alt="Outlook" href="carolmesqu@outlook.com.br" 
+<a alt="Outlook" href="mailto:carolmesqu@outlook.com.br" 
 target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="blank"></a>
 
 </div>
