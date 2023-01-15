@@ -16,15 +16,15 @@
 
 <a alt="Instagram" href="https://www.instagram.com/carolmesqu/" 
 target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
-<a alt="Telegram" href="" 
+<a alt="Telegram" href="t.me/carolmesqu" 
 target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="blank"></a>
-<a alt="WhatsApp" href="" 
+<a alt="WhatsApp" href="https://wa.me/message/3FFGHGJJGTHQP1" 
 target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"></a>
 <a alt="Linkedin" href="https://www.linkedin.com/in/maria-carolina-mesquita-4b6bb997/" 
 target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
-<a alt="Gmail" href="" 
+<a alt="Gmail" href="carolmesqu@gmail.com" 
 target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-<a alt="Outlook" href="" 
+<a alt="Outlook" href="carolmesqu@outlook.com.br" 
 target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="blank"></a>
 
 </div>
