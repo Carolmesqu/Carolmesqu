@@ -4,15 +4,11 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=24&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack+💜;Construindo+aplicações+modernas+com+Angular+e+NestJS;Aprendizado+contínuo+e+foco+em+evolução!)](https://git.io/typing-svg)
 </div>
 
----
-
 ## 👩‍💻 Sobre mim
 
 Olá! Sou formada em **Sistemas de Informação**. Atuo como desenvolvedora de software focada no ecossistema Full Stack. Este espaço é dedicado aos meus estudos pessoais, laboratórios e projetos práticos. 
 
 No meu dia a dia profissional, trabalho com **Angular**, **ColdFusion** e **SQL Server**, mas estou sempre expandindo meu ecossistema de estudos com tecnologias modernas para criar soluções robustas de ponta a ponta.
-
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -30,8 +26,6 @@ No meu dia a dia profissional, trabalho com **Angular**, **ColdFusion** e **SQL 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
 ## 📊 Estatísticas e Rendimento
 
 <div align="center">
@@ -41,8 +35,6 @@ No meu dia a dia profissional, trabalho com **Angular**, **ColdFusion** e **SQL 
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carolmesqu&bg_color=0d1117&color=BB86FC&line=9F7AEA&point=C4B5FD&area=true&hide_border=true" width="100%" alt="Maria Carolina Contribution Graph" />
 </div>
-
----
 
 ## 🌐 Conecte-se comigo
 
