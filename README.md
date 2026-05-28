@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=140&section=header&fontSize=40&fontAlignY=40&animation=twinkling"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=24&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack+💜;Construindo+aplicações+modernas+com+Angular+e+NestJS;Aprendizado+contínuo+e+foco+em+evolução!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=24&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack+💜;Construindo+aplicações+modernas+com+Angular+e+NestJS;Aprendizado+contínuo+e+foco+em+evolução!)](https://git.io/typing-svg)  
 </div>
 
 ## 👩‍💻 Sobre mim
@@ -26,25 +26,18 @@ No meu dia a dia profissional, trabalho com **Angular**, **ColdFusion** e **SQL 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 Estatísticas e Rendimento
 
+## 📊 Estatísticas e Rendimento
+</div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carolmesqu&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180px" />
+  <!-- Seu Gráfico de Linhas (Lindo e Estável) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carolmesqu&bg_color=0d1117&color=BB86FC&line=9F7AEA&point=C4B5FD&area=true&hide_border=true" width="100%" alt="Maria Carolina Contribution Graph" />
   
   <br><br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carolmesqu&bg_color=0d1117&color=BB86FC&line=9F7AEA&point=C4B5FD&area=true&hide_border=true" width="100%" alt="Maria Carolina Contribution Graph" />
-</div>
-
-## 🌐 Conecte-se comigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/maria-carolina-mesquita-4b6bb997/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/carolmesqu/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+  <!-- Badges de Rendimento Corrigidos e Estáveis -->
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=6A0DAD&label=Total%20Commits&query=%24.total&url=https%3A%2F%2Fgithub-profile-summary-cards.vercel.app%2Fapi%2Fcards%2Fprofile-details%3Fusername%3DCarolmesqu%26theme%3Ddefault" alt="Total de Commits" />
+  <img src="https://img.shields.io/github/followers/Carolmesqu?label=Seguidores&style=for-the-badge&color=BB86FC&logo=github" alt="Seguidores" />
 </div>
 
 <br>
