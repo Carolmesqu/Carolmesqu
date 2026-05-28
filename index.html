@@ -3,209 +3,262 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Currículo - Maria Carolina de Sousa Mesquita</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+    <title>Maria Carolina de Sousa Mesquita | Currículo</title>
     <style>
+        :root {
+            --bg-color: #0d1117;
+            --container-bg: #161b22;
+            --text-color: #c9d1d9;
+            --text-secondary: #8b949e;
+            --primary-purple: #9F7AEA;
+            --light-purple: #BB86FC;
+            --border-color: #30363d;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+        }
+
         body {
-            font-family: 'Poppins', sans-serif;
-            background: linear-gradient(135deg, #f5e8c7 0%, #e8d7b5 100%); /* Gradiente ocre */
-            color: #3a1f5b; /* Roxo mais suave */
-            margin: 0;
-            padding: 30px;
+            background-color: var(--bg-color);
+            color: var(--text-color);
             line-height: 1.6;
+            padding: 40px 20px;
         }
+
         .container {
-            max-width: 1000px;
+            max-width: 900px;
             margin: 0 auto;
-            background: #fff;
+            background-color: var(--container-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
             padding: 40px;
-            border-radius: 15px;
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-            border: 1px solid #d4a373; /* Borda ocre */
+            box-shadow: 0 8px 24px rgba(0,0,0,0.3);
         }
-        .header {
+
+        header {
             text-align: center;
-            background: #d4a373; /* Ocre médio */
-            padding: 30px;
-            border-radius: 15px 15px 0 0;
-            color: #fff;
-            position: relative;
-            overflow: hidden;
+            border-bottom: 2px solid var(--border-color);
+            padding-bottom: 30px;
+            margin-bottom: 30px;
         }
-        .header::after {
-            content: '';
-            position: absolute;
-            bottom: -10px;
-            left: 0;
-            width: 100%;
-            height: 20px;
-            background: linear-gradient(to bottom, rgba(255, 255, 255, 0), #fff);
+
+        header h1 {
+            color: var(--light-purple);
+            font-size: 2.5rem;
+            margin-bottom: 5px;
         }
-        .header h1 {
-            font-family: 'Roboto Slab', serif;
-            margin: 0;
-            font-size: 32px;
-            font-weight: 700;
-            letter-spacing: 1px;
+
+        header p {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            margin-bottom: 15px;
         }
-        .header p {
-            margin: 8px 0;
-            font-size: 16px;
-            font-weight: 300;
+
+        .contact-info {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
         }
-        .header a {
-            color: #fff;
+
+        .contact-info a, .contact-info span {
+            color: var(--text-color);
             text-decoration: none;
-            transition: color 0.3s;
+            font-size: 0.95rem;
+            display: flex;
+            align-items: center;
+            gap: 5px;
         }
-        .header a:hover {
-            color: #8e5572; /* Roxo médio */
+
+        .contact-info a:hover {
+            color: var(--primary-purple);
         }
-        .section {
-            margin: 30px 0;
-            padding: 0 20px;
+
+        section {
+            margin-bottom: 35px;
         }
-        .section h2 {
-            font-family: 'Roboto Slab', serif;
-            background: #8e5572; /* Roxo médio */
-            color: #fff;
-            padding: 12px 20px;
-            border-radius: 8px;
-            font-size: 24px;
-            font-weight: 700;
+
+        h2 {
+            color: var(--light-purple);
+            font-size: 1.4rem;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 5px;
+        }
+
+        .job, .education {
             margin-bottom: 20px;
-            display: inline-block;
         }
-        .section-item {
-            background: #f9f5eb; /* Ocre bem claro */
-            padding: 20px;
-            border-radius: 10px;
-            margin-bottom: 20px;
-            transition: transform 0.3s;
+
+        .job-header, .edu-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+            flex-wrap: wrap;
         }
-        .section-item:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+
+        .job-title {
+            font-weight: bold;
+            color: var(--text-color);
         }
-        .section-item h3 {
-            font-family: 'Roboto Slab', serif;
-            margin: 0;
-            color: #d4a373; /* Ocre médio */
-            font-size: 20px;
+
+        .job-company {
+            color: var(--primary-purple);
             font-weight: 600;
         }
-        .section-item p {
-            margin: 5px 0;
-            font-size: 15px;
-            color: #4a2c6b;
+
+        .date-location {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
         }
+
         ul {
             list-style-type: none;
-            padding-left: 0;
         }
+
         ul li {
+            margin-bottom: 8px;
             position: relative;
-            padding-left: 25px;
-            margin: 8px 0;
-            font-size: 15px;
+            padding-left: 15px;
+            color: var(--text-color);
         }
-        ul li:before {
-            content: '➜';
+
+        ul li::before {
+            content: "•";
+            color: var(--primary-purple);
+            font-weight: bold;
             position: absolute;
             left: 0;
-            color: #8e5572; /* Roxo médio */
-            font-size: 16px;
+        }
+
+        .skills-container {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-top: 10px;
+        }
+
+        .skill-badge {
+            background-color: var(--bg-color);
+            border: 1px solid var(--border-color);
+            color: var(--text-color);
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 500;
+        }
+
+        .skill-badge:hover {
+            border-color: var(--primary-purple);
+            color: var(--light-purple);
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <!-- Cabeçalho -->
-        <div class="header">
-            <h1>Maria Carolina de Sousa Mesquita</h1>
-            <p>Rio de Janeiro</p>
-            <p>
-                <a href="https://github.com/carolmesqu">GitHub</a> | 
-                <a href="https://www.linkedin.com/in/carolmesqu">LinkedIn</a>
-            </p>
-        </div>
 
-        <!-- Experiência Profissional -->
-        <div class="section">
-            <h2>Experiência Profissional</h2>
-            <div class="section-item">
-                <h3>Analista de Desenvolvimento de Sistemas I - Atos</h3>
-                <p>08/2023 - Atual | São Paulo, Brasil</p>
-                <ul>
-                    <li>Desenvolvimento e manutenção de uma ferramenta ITSM, aprimorando funcionalidades e corrigindo problemas.</li>
-                    <li>Atuação com SQL Server, criando e otimizando scripts complexos (PIVOT, cursores) para migração de novos clientes.</li>
-                    <li>Implementação de integrações com SendGrid, desenvolvendo APIs para automação de processos.</li>
-                    <li>Trabalho com ColdFusion (backend) e Angular (frontend) em novas funcionalidades e correção de bugs.</li>
-                    <li>Uso de Git Flow para versionamento, gerenciando branches e promovendo alterações entre ambientes.</li>
-                    <li>Atuação em equipe ágil (sprints de 10 dias), participando de dailies, planning, revisões e retrospectivas.</li>
-                </ul>
-            </div>
-            <div class="section-item">
-                <h3>Programador de Sistemas de Informação - Atos</h3>
-                <p>02/2022 - 08/2023 | São Paulo, Brasil</p>
-                <ul>
-                    <li>Desenvolvimento e manutenção de uma ferramenta ITSM, contribuindo para melhorias e correções.</li>
-                    <li>Manipulação de banco de dados relacional com SQL Server.</li>
-                    <li>Desenvolvimento backend com ColdFusion e frontend com Angular.</li>
-                    <li>Conhecimento em ITIL, com cursos para aprimorar práticas de gerenciamento de serviços de TI.</li>
-                </ul>
-            </div>
+<div class="container">
+    <header>
+        <h1>Maria Carolina de Sousa Mesquita</h1>
+        <p>Desenvolvedora Full Stack</p>
+        <div class="contact-info">
+            <span>📍 São Gonçalo, RJ</span>
+            <a href="mailto:carolmesqu@gmail.com">✉️ carolmesqu@gmail.com</a>
+            <a href="https://github.com/Carolmesqu" target="_blank">🐙 GitHub</a>
+            <a href="https://linkedin.com/in/maria-carolina-mesquita-4b6bb997/" target="_blank">🔗 LinkedIn</a>
         </div>
+    </header>
 
-        <!-- Formação Acadêmica -->
-        <div class="section">
-            <h2>Formação Acadêmica</h2>
-            <div class="section-item">
-                <h3>Bacharelado em Gestão de Sistemas de Informação - UNOPAR</h3>
-                <p>04/2024 - 12/2025 (em andamento) | Brasil</p>
-                <p>Curso em andamento com foco em desenvolvimento de sistemas e gestão de TI. Média: 9,63</p>
-            </div>
-            <div class="section-item">
-                <h3>Bacharelado em Tecnologia da Informação - Estácio</h3>
-                <p>02/2022 - 04/2024 (não concluído) | Brasil</p>
-                <p>Base em TI e sistemas, com transição para Unopar em 2024. Média: 9,45</p>
-            </div>
-        </div>
+    <section>
+        <h2>👩‍💻 Perfil Profissional</h2>
+        <p>Profissional de Sistemas de Informação dedicada ao desenvolvimento de software Full Stack. Sólida experiência prática na sustentação, evolução e otimização de plataformas corporativas de alta complexidade. Focada em boas práticas de arquitetura, escrita de código limpo e resolução eficiente de problemas de ponta a ponta.</p>
+    </section>
 
-        <!-- Cursos de Extensão -->
-        <div class="section">
-            <h2>Cursos de Extensão</h2>
-            <div class="section-item">
-                <h3>Academia Java - UFN</h3>
-                <p>04/2022 - 07/2022 | Brasil</p>
-                <p>Conteúdo: Java (JDBC, JPA, Spring Boot, Spring Security), Angular, APIs REST, Spring Batch, Docker, Tomcat, Wildfly, Logging, Debugging e Profiling. Nota: 9,8</p>
+<section>
+        <h2>💼 Experiência Profissional</h2>
+        
+        <!-- Nova Experiência: Semantix -->
+        <div class="job">
+            <div class="job-header">
+                <div>
+                    <span class="job-title">Analista de Desenvolvimento de Sistemas I</span> - 
+                    <span class="job-company">Semantix</span>
+                </div>
+                <div class="date-location">05/2026 – Atual | Remoto</div>
             </div>
-        </div>
-
-        <!-- Prêmios e Reconhecimentos -->
-        <div class="section">
-            <h2>Prêmios e Reconhecimentos</h2>
-            <div class="section-item">
-                <h3>Accolade - Champagne Award - Atos</h3>
-                <p>30/01/2025</p>
-                <p>Reconhecimento pela participação no desenvolvimento do módulo CMDB de um projeto ITSM.</p>
-            </div>
-        </div>
-
-        <!-- Competências -->
-        <div class="section">
-            <h2>Competências</h2>
             <ul>
-                <li><strong>ColdFusion:</strong> Desenvolvimento e manutenção de sistemas</li>
-                <li><strong>SQL Server:</strong> Stored Procedures, Triggers, PIVOT, Cursores, Consultas Avançadas</li>
-                <li><strong>SendGrid:</strong> Integração, Geração de templates de e-mail</li>
-                <li><strong>Angular:</strong> Desenvolvimento frontend, CRUD, Serviços, RxJS</li>
-                <li><strong>Java (Spring Boot):</strong> APIs REST, JPA, Spring Security, Batch Processing</li>
-                <li><strong>Git:</strong> Git Flow, Branching Strategy, Merge Requests</li>
-                <li><strong>ITIL:</strong> Processos de infraestrutura, Gerenciamento de Incidentes</li>
-                <li><strong>Docker:</strong> Containers, Imagens, Docker Compose</li>
+                <li><strong>Continuidade estratégica:</strong> Mantida a atuação e responsabilidade técnica sobre o mesmo projeto global após transição organizacional, garantindo estabilidade, consistência e retenção de conhecimento de negócio.</li>
+                <li>Evolução contínua e sustentação da plataforma corporativa utilizando ecossistema <strong>ColdFusion</strong>, <strong>Angular</strong> e modelagem em <strong>Microsoft SQL Server</strong>.</li>
             </ul>
         </div>
-    </div>
+
+        <!-- Experiência Anterior: Atos -->
+        <div class="job">
+            <div class="job-header">
+                <div>
+                    <span class="job-title">Analista de Desenvolvimento de Sistemas I</span> - 
+                    <span class="job-company">Atos</span>
+                </div>
+                <div class="date-location">08/2023 – 05/2026 | Remoto</div>
+            </div>
+            <ul>
+                <li>🏆 <strong>Destaque:</strong> Premiada com o <em>Champagne Award (Atos Certificate of Appreciation)</em> em reconhecimento à excelência e impacto nas entregas.</li>
+                <li>Desenvolvimento backend em <strong>ColdFusion</strong> e frontend com o framework <strong>Angular</strong> em plataforma de alta complexidade (ITSM).</li>
+                <li>Atuação avançada com <strong>SQL Server</strong>, criando scripts complexos, otimização de queries, PIVOT e cursores para a migração eficiente de bases de dados de novos grandes clientes.</li>
+                <li>Desenvolvimento de APIs robustas para automação de processos internos e integração com serviços externos como o SendGrid.</li>
+                <li>Utilização de metodologias ágeis (Scrum) com sprints de 10 dias e gerenciamento de código através de fluxos em <strong>Git Flow</strong>.</li>
+            </ul>
+        </div>
+
+        <div class="job">
+            <div class="job-header">
+                <div>
+                    <span class="job-title">Programador de Sistemas de Informação</span> - 
+                    <span class="job-company">Atos</span>
+                </div>
+                <div class="date-location">08/2022 – 08/2023 | Remoto</div>
+            </div>
+            <ul>
+                <li>Manutenção preventiva e corretiva de sistemas, atuando na modelagem de bancos de dados relacionais e manipulação de dados via SQL Server.</li>
+                <li>Construção de componentes e serviços no frontend com Angular e regras de negócio estruturadas no ecossistema backend.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section>
+        <h2>🎓 Formação Acadêmica</h2>
+        <div class="education">
+            <div class="edu-header">
+                <div><strong>Bacharelado em Sistemas de Informação</strong></div>
+                <div class="date-location">Concluído | UNOPAR</div>
+            </div>
+            <p style="color: var(--text-secondary); font-size: 0.95rem;">Principais frentes: Desenvolvimento com Angular, React, Node.js, Arquitetura de APIs, Web Services e Governança de TI.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>🛠️ Principais Competências</h2>
+        <div class="skills-container">
+            <div class="skill-badge">Angular</div>
+            <div class="skill-badge">TypeScript</div>
+            <div class="skill-badge">JavaScript (Node.js)</div>
+            <div class="skill-badge">NestJS</div>
+            <div class="skill-badge">ColdFusion</div>
+            <div class="skill-badge">SQL Server</div>
+            <div class="skill-badge">MySQL</div>
+            <div class="skill-badge">Git Flow</div>
+            <div class="skill-badge">RESTful APIs</div>
+            <div class="skill-badge">Docker</div>
+            <div class="skill-badge">Metodologias Ágeis</div>
+        </div>
+    </section>
+</div>
+
 </body>
 </html>
