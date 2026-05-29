@@ -22,6 +22,7 @@ No meu dia a dia profissional, trabalho com **Angular**, **ColdFusion** e **SQL 
 ### **Backend & Banco de Dados**
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![ColdFusion](https://img.shields.io/badge/ColdFusion-004488?style=for-the-badge&logo=adobe&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
