@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=140&section=header&fontSize=40&fontAlignY=40&animation=twinkling"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=24&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack+💜;Construindo+aplicações+modernas+com+Angular+e+NestJS;Aprendizado+contínuo+e+foco+em+evolução!)](https://git.io/typing-svg)  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=24&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack+💜;Aprendizado+contínuo+e+foco+em+evolução!)](https://git.io/typing-svg)  
 </div>
 
 ## 👩‍💻 Sobre mim
